@@ -19,4 +19,4 @@ después de haber configurado `.kaggle/kaggle.json` de tal y tal manera.
 ## Videos
 
 - [Video primera entrega](https://youtu.be/XvbO8Nwn4ts)
-- [Video segunda entrega](https://www.youtube.com/watch?v=OW48248vWAo&ab_channel=Spark)
+- [Video segunda entrega](https://youtu.be/vzVwGN7t1DI)
